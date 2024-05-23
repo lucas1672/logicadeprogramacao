@@ -2,7 +2,7 @@
 
 
 
-<imag>https://escolauniversalcursosead.com.br/wp-content/uploads/2019/12/Logica-de-Programacao.jpg
+![logica}(https://escolauniversalcursosead.com.br/wp-content/uploads/2019/12/Logica-de-Programacao.jpg)
 # lógicas de programação
  <b>Editando minha primeira pasta,onde estarão todas as lógicas de programação <B>
 
