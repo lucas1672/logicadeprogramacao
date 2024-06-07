@@ -1,7 +1,7 @@
  //if/else
 
 
- /*var numero = 2;
+ var numero = 2;
 
  if (numero > 0 ){
      console.log("numero positivo")
@@ -13,16 +13,16 @@
     
         console.log("numero e zero")
     }
-*/
-    /*var x =10;
+
+ var x =10;
     if(x<100){
         console.log("menor que cem");
     }
     if(x<1000){
         console.log("menor que mil");
-    }*/
+    }
      
-    /*switch (2){
+    switch (2){
         case 1 :
         console.log("domingo")
      break;
@@ -31,18 +31,18 @@
          default:
          console.log("nao")
          break;
-    }*/
+    
     import leia from "readline-sync"
- var codigoerro = leia.question("digite o codigo do erro");
+ var codigoerro = leia.questionInt("digite o codigo do erro");
  switch(codigoerro){
         case 400:
-        case 401:
-        case 404:
+    
+    
         console.log("http code erro aplicaçao")
         break;
         case 500:
-        case 501:
-        case 502:
+        
+        
             console.log("http code - erro de servidor")
             break;
             default:
