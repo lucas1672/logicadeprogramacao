@@ -8,7 +8,7 @@ switch(mesdoano){
         case 6:
         case 9:
         case 11:
-            console.log("30 dias");
+            console.log("30 dias"); 
         break;
             case 1:
             case 3:
